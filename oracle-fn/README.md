@@ -5,4 +5,4 @@
 * [Создание Oracle Data Science Python Notebook в Oracle Cloud](https://www.youtube.com/watch?v=sDIQcZKwC_U)
 * [База данных для ML](https://www.kaggle.com/uciml/pima-indians-diabetes-database/)
   * Этот набор данных был получен из *"National Institute of Diabetes and Digestive and Kidney Diseases"*. 
-  * Цель набора данных состоит в том, чтобы диагностически *предсказать, есть ли у пациента диабет*, основываясь на определенных измерениях, включенных в набор данных.
+  * Цель набора данных состоит в том, чтобы диагностически *предсказать, есть ли у пациента диабет*, основываясь на определенных измерениях.

@@ -6,3 +6,4 @@
 * [База данных для ML](https://www.kaggle.com/uciml/pima-indians-diabetes-database/)
   * Этот набор данных был получен из *"National Institute of Diabetes and Digestive and Kidney Diseases"*. 
   * Цель набора данных состоит в том, чтобы диагностически *предсказать, есть ли у пациента диабет*, основываясь на определенных измерениях.
+* [Презентация по выполненной работе](https://docs.google.com/presentation/d/1XmTsS1q6W-KxnJfhQ27W6NKa327JKDVBmg3D8ZX1BvU/edit?usp=sharing)
